@@ -91,10 +91,13 @@ Key findings from exploration:
 The Tableau dashboard includes **5 required visualizations** plus additional insights:
 
 ### 7.1 Top 10 Products by Sales Amount
+
+<img width="588" height="244" alt="Top ten sales amount" src="https://github.com/user-attachments/assets/08aa29a2-d059-4ebd-ab12-4c9907c397d2" />
+
 - **Chart Type:** Horizontal bar chart
 - **Purpose:** Shows which products generate the most revenue
 - **Key Insight:** Mountain-200 models (Black and Silver variants) are the top revenue generators, followed by Road-150 models
-  <img width="588" height="244" alt="Top ten sales amount" src="https://github.com/user-attachments/assets/3669f57d-4f34-4baf-8225-167a87c2e6db" />
+  
 
 
 ### 7.2 Top 10 Customers
