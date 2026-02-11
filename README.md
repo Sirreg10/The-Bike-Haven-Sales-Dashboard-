@@ -101,6 +101,9 @@ The Tableau dashboard includes **5 required visualizations** plus additional ins
 
 
 ### 7.2 Top 10 Customers
+
+<img width="580" height="241" alt="Top ten customers " src="https://github.com/user-attachments/assets/b294d941-0a66-4fad-919e-69ee593c6aca" />
+
 - **Chart Type:** Horizontal bar chart
 - **Purpose:** Identifies most valuable customers for relationship building
 - **Key Insight:** Jordan Turner is the highest value customer, followed by Willie Xu and Nichole Nara
