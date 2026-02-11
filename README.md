@@ -1,3 +1,12 @@
+# The Bike Haven Sales Dashboard
+--- 
+## 1. Title
+**The Bike Haven - Interactive Sales Analytics Dashboard**
+
+A comprehensive business intelligence solution for tracking sales performance, customer behavior, and product insights for a bike retail business.
+
+---
+
 ## Table of Contents
 - [1. Title](#1-title)
 - [2. Project Overview / Problem Statement](#2-project-overview--problem-statement)
@@ -10,14 +19,6 @@
 - [9. Recommendations](#9-recommendations)
 - [10. Limitations](#10-limitations)
 
-# The Bike Haven Sales Dashboard
---- 
-## 1. Title
-**The Bike Haven - Interactive Sales Analytics Dashboard**
-
-A comprehensive business intelligence solution for tracking sales performance, customer behavior, and product insights for a bike retail business.
-
----
 ## 2. Project Overview / Problem Statement
 The Bike Haven is a bike shop in San Francisco that sells bikes, clothing, accessories, and components. The sales manager, Chris, needed to move from static reports to interactive dashboards to better understand sales performance across products, customers, and regions.
 
