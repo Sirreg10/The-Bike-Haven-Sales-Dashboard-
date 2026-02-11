@@ -127,6 +127,9 @@ The Tableau dashboard includes **5 required visualizations** plus additional ins
   - Accessories and Clothing show significantly lower sales volumes
 
 ### 7.5 Sales Figures vs Budget
+
+<img width="392" height="343" alt="Sales Vs Budget" src="https://github.com/user-attachments/assets/55c70f86-3f68-4e55-bbde-202bc0d220de" />
+
 - **Chart Type:** Dual-axis line chart
 - **Purpose:** Compares actual sales against budgeted targets over time
 - **Key Insight:** 
@@ -135,6 +138,9 @@ The Tableau dashboard includes **5 required visualizations** plus additional ins
   - 2023 shows decline, matching budget expectations
 
 ### 7.6 Additional Dashboard Features
+
+<img width="265" height="385" alt="The Bike Haven Dashboard" src="https://github.com/user-attachments/assets/dc3da62b-0a70-4444-a48d-7da87a2e5df6" />
+
 - Interactive filters for sales representatives to filter by customers and products
 - Responsive design for multiple devices
 - Clean, user-friendly layout in A4 portrait format
