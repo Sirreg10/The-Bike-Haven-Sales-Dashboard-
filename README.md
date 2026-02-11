@@ -117,6 +117,9 @@ The Tableau dashboard includes **5 required visualizations** plus additional ins
 - **Key Insight:** California shows highest sales concentration (blue color), with strong performance in Washington and Oregon
 
 ### 7.4 Product Categories vs Sales Amount
+
+<img width="371" height="364" alt="Product categories sales " src="https://github.com/user-attachments/assets/70249b08-6d1a-4de7-b943-026b5379e8b5" />
+
 - **Chart Type:** Stacked bar chart
 - **Purpose:** Compares performance across Accessories, Bikes, and Clothing
 - **Key Insight:** 
