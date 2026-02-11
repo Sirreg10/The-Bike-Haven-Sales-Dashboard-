@@ -109,6 +109,9 @@ The Tableau dashboard includes **5 required visualizations** plus additional ins
 - **Key Insight:** Jordan Turner is the highest value customer, followed by Willie Xu and Nichole Nara
 
 ### 7.3 Sales Figures by Region/City
+,
+<img width="560" height="326" alt="Sales Figure " src="https://github.com/user-attachments/assets/3a5ec888-a381-4cb7-b305-e6879b05f533" />
+
 - **Chart Type:** Map visualization
 - **Purpose:** Geographic distribution of sales across US states
 - **Key Insight:** California shows highest sales concentration (blue color), with strong performance in Washington and Oregon
