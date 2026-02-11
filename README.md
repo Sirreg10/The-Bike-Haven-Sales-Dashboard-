@@ -1,3 +1,15 @@
+## Table of Contents
+- [1. Title](#1-title)
+- [2. Project Overview / Problem Statement](#2-project-overview--problem-statement)
+- [3. Data Sources](#3-data-sources)
+- [4. Tools](#4-tools)
+- [5. Data Cleaning](#5-data-cleaning)
+- [6. Exploratory Data Analysis](#6-exploratory-data-analysis)
+- [7. Data Analysis](#7-data-analysis)
+- [8. Results](#8-results)
+- [9. Recommendations](#9-recommendations)
+- [10. Limitations](#10-limitations)
+
 # The Bike Haven Sales Dashboard
 --- 
 ## 1. Title
@@ -48,7 +60,7 @@ The project uses data from **7 database tables** plus an external budget file:
 
 ---
 
-## 5. Data Cleaning & Preparation
+## 5. Data Cleaning 
 The following SQL steps were performed to prepare the data:
 - Joined Product, Product Subcategory, and Product Category tables
 - Joined Customer and Geography tables
