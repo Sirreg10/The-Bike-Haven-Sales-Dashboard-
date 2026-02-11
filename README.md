@@ -18,7 +18,7 @@
 A comprehensive business intelligence solution for tracking sales performance, customer behavior, and product insights for a bike retail business.
 
 ---
-## 2. Project Overview 
+## 2. Project Overview / Problem Statement
 The Bike Haven is a bike shop in San Francisco that sells bikes, clothing, accessories, and components. The sales manager, Chris, needed to move from static reports to interactive dashboards to better understand sales performance across products, customers, and regions.
 
 **Key Business Questions:**
